@@ -12,10 +12,10 @@ SQL script containing the complete **database schema**:
 - Foreign keys  
 - Constraints  
 
-### 2. `spotify_eer_diagram.pdf`
+### 2. `spotify_EER.pdf`
 The **EER (Enhanced Entity Relationship) Diagram** representing all entities and relationships of the Spotify database.
 
-### 3. `insert.sql`  
+### 3. `spotify_insert statements.sql`  
 Contains a few basic sample `INSERT` queries to demonstrate how records can be inserted into the tables.  
 
 ### 4. `spotify_model.mwb`
