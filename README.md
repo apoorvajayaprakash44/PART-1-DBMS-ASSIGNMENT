@@ -1,6 +1,7 @@
 <img width="1553" height="2175" alt="spotify_EER-1" src="https://github.com/user-attachments/assets/6c5764e4-3a91-41e2-ab20-a6f9e2178cb9" />
 
 # Spotify Database Management System (DBMS Project)
+## Data source: https://www.kaggle.com/datasets/dhruvildave/spotify-charts?resource=download 
 
 This repository contains the database schema and EER model created for the Spotify music streaming platform as part of the DBMS assignment
 ---
